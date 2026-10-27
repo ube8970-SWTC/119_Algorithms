@@ -1,9 +1,9 @@
 # AL03: Ticket Registry, Queue, and Undo
 
-Name: [your name]
-Partners: [name(s)]
-Shared repository: [URL]
-My contribution: [brief note]
+Name: [Dylan]
+Partners: [Jonah]
+Shared repository: [https://github.com/ube8970-SWTC/Algorithms_paired_Dylan_Jonah]
+My contribution: [I helped brainstorm and work through code with Jonah on Monday, I wrote the code for Tuesday and Thursday with input, brainstorming and troubleshooting from Jonah]
 
 ## Run
 
