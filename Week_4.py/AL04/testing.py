@@ -1,6 +1,6 @@
 """Search routines and focused checks for the AL04 search contracts."""
 
-from search_support import category_key, id_key
+from AL04.search_support import category_key, id_key
 
 
 def linear_search(records, target, key=id_key):

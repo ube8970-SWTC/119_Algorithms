@@ -1,9 +1,9 @@
 """Unfinished test prompts; replace the final stop with your own focused checks."""
 
 from copy import deepcopy
-from Task_1 import linear_search, binary_search
-from ticket_data import TICKETS
-from search_support import id_key, category_key
+from AL04.Task_1 import linear_search, binary_search
+from AL04.ticket_data import TICKETS
+from AL04.search_support import id_key, category_key
 
 
 def assignment_checks():
